@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "stm32f407-fw"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"AP.C": "cpp",
+			"hw.h": "c",
+			"bsp.h": "c",
+			"uart.h": "c",
+			"ap.h": "c",
+			"led.h": "c",
+			"hw_def.h": "c"
+		}
+	}
+}
